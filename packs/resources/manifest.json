@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Scripting Learning Resources",
+    "description": "Learn about Minecraft Bedrock Edition's Scripting API",
+    "uuid": "64666041-6547-4e10-8362-6b1ec788c59c",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources for Scripting Learning",
+      "type": "resources",
+      "uuid": "cd048bc9-6372-45b1-8e49-ef9d4818b751",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

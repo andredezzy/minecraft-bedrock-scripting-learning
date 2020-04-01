@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Scripting Learning Behaviors",
+    "description": "Learn about Minecraft Bedrock Edition's Scripting API",
+    "uuid": "46402aa9-e6b9-4506-9e82-eb03dab37911",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for Scripting Learning",
+      "type": "client_data",
+      "uuid": "4ff2eef0-492d-4347-b1de-8d826f207071",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "64666041-6547-4e10-8362-6b1ec788c59c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
